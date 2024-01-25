@@ -1,18 +1,18 @@
 # Pre-Meeting Notes
 
 ## Meeting Details
-- **Date:**
-- **Time:**
-- **Location:**
-- **Facilitator:**
+- **Date:** January 25, 2024
+- **Time:** 3-4:30 pm
+- **Location:** SEEC
+- **Facilitator:** Cibele, Ty
 
 ## Attendees
-- List of attendees
+- Min, Rob, Katya, Eric, Cibele, Ty
 
 ## Agenda
 
 ### 1. Opening Remarks
-- Brief welcome and overview of the meeting's objectives.
+- Cibele gave an overview of ESIIL cyberinfrastructure resources and introduced everyone's role and background
 
 ### 2. Introductions
 - Roundtable introductions for all attendees.
