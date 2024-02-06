@@ -1,7 +1,7 @@
 # Postdoc OASIS
 This is the central hub for information pertaining to ESIIL Postdocs
 
-# [Katya Jay]
+# Katya Jay
 
 Welcome to the tundra_shrub_expansion repository, part of the Environmental Data Science Innovation and Inclusion Lab (ESIIL). This repository serves as the central hub for our research at ESIIL, hosting the project description, proposals, bio, codebase, and more.
 
