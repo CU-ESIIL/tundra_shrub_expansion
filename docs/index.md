@@ -1,17 +1,20 @@
-# [Your Name]
+# Katya Jay
 
-Welcome to the [Your Name] repository, part of the Environmental Data Science Innovation and Inclusion Lab (ESIIL). This repository serves as the central hub for our research at ESIIL, hosting your project description, proposals, bio, codebase, and more.
+Welcome to the tundra_shrub_expansion repository, part of the Environmental Data Science Innovation and Inclusion Lab (ESIIL). This repository serves as the central hub for our research at ESIIL, hosting the project description, proposals, bio, codebase, and more.
 
-## Your Project
+## Project Summary
 
-[Provide a brief overview of your project here. Explain what you aim to achieve, the importance of your project, and its expected impact.]
+Woody encroachment, driven by climate warming, disturbance, and altered nutrient cycling, is occurring across ecosystems globally with significant implications for surface energy balance and ecosystem functions and services. These vegetation shifts modify biogeochemical and biophysical processes locally, altering ecosystem energy, water, and carbon (C) fluxes. While there is widespread agreement that woody encroachment has regional and global consequences that can create non-linear climate feedbacks, the underlying biological processes are poorly incorporated into land models that are used for climate change projections. 
 
-## Project Proposal
+Two related challenges must be addressed to incorporate shrub encroachment into land models. First, studies using modeling approaches to explore shrub encroachment have largely assumed arbitrary increases in cover, demonstrating a need for predictive tools to understand the mechanisms driving these transitions. Second, land models have largely overlooked trait-environmental relationships even though plant traits vary with environmental conditions and trait differences between encroaching shrubs and resident species are likely critical in shaping ecosystem responses and climate feedbacks. By leveraging big datasets in combination with remote sensing techniques, machine learning approaches, and process-based ecosystem modeling, my project will tackle these challenges and increase our ability to incorporate vegetation dynamics into regional and global land model predictions. I will integrate diverse, open datasets at local and regional scales to quantify woody encroachment rates while helping to develop a pipeline for using these datasets in ecological studies with land models in other ecosystems.
 
-[Link to the detailed project proposal document or include the proposal directly in the repository. This should outline the goals, methodologies, anticipated challenges, and projected timelines.]
+## [Project Proposal](https://drive.google.com/file/d/1p2-ut44t4wo2qIg5sZhV-bbPGhMABg8Q/view?usp=sharing)
 
-## Collaborators
-- ...
+## Collaborators and Co-Authors 
+
+- **[Will Wieder](https://staff.ucar.edu/users/wwieder)**: Will is a project scientist in the Terrestrial Scientists Section (TSS) within the Climate and Global Dynamics Laboratory (CGD) at the National Center for Atmospheric Research (NCAR) and a research affiliate in the Institute of Arctic and Alpine Research at the University of Colorado, Boulder.  He is interested in global biogeochemical cycles, working to improve the ecological theory represented in models like the Community Land Model (CLM), and facilitating greater exchange between geoscientific and biological sciences disciplines.
+- **[Katie Suding](https://www.sudinglab.org/)**: Katie is a Distinguished Professor of Ecology and Evolutionary Biology and a Fellow of the Institute of Arctic and Alpine Research at the University of Colorado, Boulder. She is interested in integrating across community and ecosystem scales to study the effects of various global change drives on ecosystem function in grassland, rangeland, and alpine tundra systems, combining long-term monitoring, modeling, and experimental approaches to inform land management and restoration efforts.
+- **[Cibele Amaral](https://earthlab.colorado.edu/our-team/cibele-amaral)**: Cibele is the Interim Analytics Hub Director and a Remote Sensing Data Scientist at Earth Lab and ESIIL at the University of Colorado, Boulder. She is interested in ecosystem ecology and management, remote sensing, and big data analytics, producing science and open-source tools that support sustainable development, climate change adaptation, and biodiversity conservation.
 
 ## Code Repository
 
